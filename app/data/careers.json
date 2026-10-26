@@ -1,0 +1,931 @@
+{
+  "options": {
+    "interests": [
+      "Building Products",
+      "Business & Strategy",
+      "Coding",
+      "Communication",
+      "Creativity & Design",
+      "Data & Patterns",
+      "Finance & Markets",
+      "Helping People",
+      "Machines & Engineering",
+      "Marketing & Social Media",
+      "Problem Solving",
+      "Psychology & Human Behaviour",
+      "Research",
+      "Science & Research",
+      "Security & Investigation",
+      "Teaching & Learning",
+      "Technology",
+      "Writing"
+    ],
+    "skills": [
+      "Analytical Thinking",
+      "Attention to Detail",
+      "Business Analysis",
+      "Cloud Computing",
+      "Communication",
+      "Creativity",
+      "Critical Thinking",
+      "Data Visualization",
+      "Design",
+      "Empathy",
+      "Logical Thinking",
+      "Mathematics",
+      "Networking",
+      "Numeracy",
+      "Organization",
+      "Physics",
+      "Planning",
+      "Problem Solving",
+      "Programming",
+      "Public Speaking",
+      "Research",
+      "Statistics",
+      "Teamwork",
+      "Troubleshooting",
+      "Visual Storytelling",
+      "Writing"
+    ],
+    "subjects": [
+      "Accounting",
+      "Biology",
+      "Business Studies",
+      "Chemistry",
+      "Computer Science",
+      "Design",
+      "Economics",
+      "English",
+      "Mathematics",
+      "Media Studies",
+      "Physics",
+      "Psychology",
+      "Statistics"
+    ],
+    "work_styles": [
+      "Collaborative Teamwork",
+      "Creative Exploration",
+      "Fast-Paced Problem Solving",
+      "Hands-On Practical Work",
+      "Independent Deep Work",
+      "People-Facing",
+      "Research-Oriented",
+      "Strategic Decision-Making",
+      "Structured & Detail-Oriented"
+    ],
+    "education_levels": [
+      "High school",
+      "Diploma",
+      "Undergraduate",
+      "Graduate",
+      "Postgraduate",
+      "Other"
+    ]
+  },
+  "careers": [
+    {
+      "career_id": "software-developer",
+      "title": "Software Developer",
+      "category": "Technology",
+      "summary": "Designs, builds, tests, and maintains software applications that solve user or business problems.",
+      "interests": [
+        "Technology",
+        "Coding",
+        "Problem Solving",
+        "Building Products"
+      ],
+      "skills": [
+        "Programming",
+        "Logical Thinking",
+        "Troubleshooting",
+        "Teamwork",
+        "Problem Solving"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "work_styles": [
+        "Independent Deep Work",
+        "Collaborative Teamwork",
+        "Fast-Paced Problem Solving"
+      ],
+      "responsibilities": [
+        "Build and maintain application features",
+        "Debug and test software",
+        "Review code with teammates",
+        "Document technical decisions"
+      ],
+      "education_path": "Computer Science, Software Engineering, IT, or a strong project-based equivalent pathway.",
+      "skill_gaps": [
+        "Programming fundamentals",
+        "Data structures and algorithms",
+        "Git and version control",
+        "Software testing"
+      ],
+      "roadmap": {
+        "30_days": "Learn Python or JavaScript fundamentals and practise small coding exercises each day.",
+        "60_days": "Build a useful application, use Git/GitHub, and learn basic testing and debugging.",
+        "90_days": "Publish two portfolio projects, document your decisions, and practise technical interview problems."
+      },
+      "resources": [
+        "Python tutorial — https://docs.python.org/3/tutorial/",
+        "MDN Web Docs — https://developer.mozilla.org/",
+        "GitHub Skills — https://skills.github.com/"
+      ]
+    },
+    {
+      "career_id": "data-analyst",
+      "title": "Data Analyst",
+      "category": "Data & Analytics",
+      "summary": "Finds patterns in data and turns them into practical insights for teams and decision-makers.",
+      "interests": [
+        "Data & Patterns",
+        "Business & Strategy",
+        "Problem Solving",
+        "Research"
+      ],
+      "skills": [
+        "Statistics",
+        "Data Visualization",
+        "Logical Thinking",
+        "Communication",
+        "Attention to Detail",
+        "Problem Solving"
+      ],
+      "subjects": [
+        "Mathematics",
+        "Statistics",
+        "Economics",
+        "Business Studies"
+      ],
+      "work_styles": [
+        "Research-Oriented",
+        "Structured & Detail-Oriented",
+        "Strategic Decision-Making"
+      ],
+      "responsibilities": [
+        "Clean and validate datasets",
+        "Query and analyse data",
+        "Create charts and dashboards",
+        "Explain findings and limitations"
+      ],
+      "education_path": "Statistics, Mathematics, Economics, Computer Science, Business, or related study supported by practical work.",
+      "skill_gaps": [
+        "SQL",
+        "Spreadsheet analysis",
+        "Data visualization",
+        "Statistical reasoning"
+      ],
+      "roadmap": {
+        "30_days": "Practise spreadsheet formulas, charts, descriptive statistics, and writing clear data questions.",
+        "60_days": "Learn SQL and Python/Pandas, then analyse a public dataset.",
+        "90_days": "Create a dashboard and case study explaining the question, approach, findings, and limitations."
+      },
+      "resources": [
+        "Kaggle Learn — https://www.kaggle.com/learn",
+        "SQLBolt — https://sqlbolt.com/",
+        "Microsoft Learn — https://learn.microsoft.com/"
+      ]
+    },
+    {
+      "career_id": "ai-ml-engineer",
+      "title": "AI / Machine Learning Engineer",
+      "category": "AI & Research",
+      "summary": "Builds and evaluates data-driven models that identify patterns, make predictions, or automate tasks.",
+      "interests": [
+        "Technology",
+        "Coding",
+        "Data & Patterns",
+        "Science & Research",
+        "Problem Solving"
+      ],
+      "skills": [
+        "Programming",
+        "Statistics",
+        "Logical Thinking",
+        "Analytical Thinking",
+        "Research",
+        "Problem Solving"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematics",
+        "Statistics"
+      ],
+      "work_styles": [
+        "Independent Deep Work",
+        "Research-Oriented",
+        "Fast-Paced Problem Solving"
+      ],
+      "responsibilities": [
+        "Prepare and validate datasets",
+        "Train and evaluate models",
+        "Compare experiments",
+        "Integrate models into applications"
+      ],
+      "education_path": "Computer Science, Data Science, Mathematics, or Engineering with strong practical machine-learning projects.",
+      "skill_gaps": [
+        "Python and data handling",
+        "Probability and statistics",
+        "Model evaluation",
+        "Data quality and AI ethics"
+      ],
+      "roadmap": {
+        "30_days": "Strengthen Python, data handling, probability, and basic linear algebra.",
+        "60_days": "Train baseline models with scikit-learn and compare them with appropriate evaluation metrics.",
+        "90_days": "Publish an end-to-end ML project with documented data, evaluation, limitations, and reproducible code."
+      },
+      "resources": [
+        "scikit-learn — https://scikit-learn.org/stable/tutorial/index.html",
+        "Kaggle Learn — https://www.kaggle.com/learn",
+        "Google ML Crash Course — https://developers.google.com/machine-learning/crash-course"
+      ]
+    },
+    {
+      "career_id": "cybersecurity-analyst",
+      "title": "Cybersecurity Analyst",
+      "category": "Security & Infrastructure",
+      "summary": "Monitors systems, investigates suspicious activity, and helps reduce information-security risks.",
+      "interests": [
+        "Security & Investigation",
+        "Technology",
+        "Problem Solving"
+      ],
+      "skills": [
+        "Networking",
+        "Troubleshooting",
+        "Attention to Detail",
+        "Analytical Thinking",
+        "Research",
+        "Logical Thinking"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "work_styles": [
+        "Structured & Detail-Oriented",
+        "Fast-Paced Problem Solving",
+        "Research-Oriented"
+      ],
+      "responsibilities": [
+        "Review security alerts and logs",
+        "Investigate suspicious activity",
+        "Document incidents",
+        "Assess systems in authorised environments"
+      ],
+      "education_path": "Cybersecurity, IT, Computer Science, or networking study with supervised lab practice.",
+      "skill_gaps": [
+        "Networking fundamentals",
+        "Linux",
+        "Security concepts",
+        "Incident documentation"
+      ],
+      "roadmap": {
+        "30_days": "Learn networking, operating-system basics, and common security terminology.",
+        "60_days": "Practise log analysis and defensive security exercises in legal training labs.",
+        "90_days": "Complete a documented defensive-security lab portfolio and research entry-level certifications."
+      },
+      "resources": [
+        "Cisco Skills for All — https://skillsforall.com/",
+        "TryHackMe — https://tryhackme.com/",
+        "Microsoft Learn — https://learn.microsoft.com/"
+      ]
+    },
+    {
+      "career_id": "ui-ux-designer",
+      "title": "UI/UX Designer",
+      "category": "Design & Product",
+      "summary": "Researches user needs and designs intuitive, accessible digital products and experiences.",
+      "interests": [
+        "Creativity & Design",
+        "Psychology & Human Behaviour",
+        "Technology",
+        "Building Products"
+      ],
+      "skills": [
+        "Design",
+        "Creativity",
+        "Research",
+        "Communication",
+        "Visual Storytelling",
+        "Empathy"
+      ],
+      "subjects": [
+        "Design",
+        "Psychology",
+        "Computer Science",
+        "Media Studies"
+      ],
+      "work_styles": [
+        "Creative Exploration",
+        "Collaborative Teamwork",
+        "People-Facing"
+      ],
+      "responsibilities": [
+        "Research user needs",
+        "Map journeys and wireframes",
+        "Create interactive prototypes",
+        "Test usability and accessibility"
+      ],
+      "education_path": "Interaction Design, UX, Graphic Design, HCI, or a portfolio-led learning pathway.",
+      "skill_gaps": [
+        "User research",
+        "Wireframing",
+        "Prototyping",
+        "Accessibility",
+        "Design rationale"
+      ],
+      "roadmap": {
+        "30_days": "Learn visual hierarchy, typography, accessibility, and basic user-research methods.",
+        "60_days": "Create a wireframe and interactive prototype for a real user problem; gather feedback.",
+        "90_days": "Publish two case studies showing research, iterations, design decisions, and usability improvements."
+      },
+      "resources": [
+        "Figma Learn — https://help.figma.com/hc/en-us/categories/360002051613",
+        "Nielsen Norman Group — https://www.nngroup.com/articles/",
+        "Material Design — https://m3.material.io/"
+      ]
+    },
+    {
+      "career_id": "digital-marketer",
+      "title": "Digital Marketer",
+      "category": "Marketing & Communication",
+      "summary": "Plans and evaluates digital campaigns to help organisations reach relevant audiences.",
+      "interests": [
+        "Marketing & Social Media",
+        "Business & Strategy",
+        "Creativity & Design",
+        "Writing"
+      ],
+      "skills": [
+        "Communication",
+        "Writing",
+        "Data Visualization",
+        "Creativity",
+        "Planning",
+        "Research"
+      ],
+      "subjects": [
+        "Business Studies",
+        "Economics",
+        "English",
+        "Media Studies"
+      ],
+      "work_styles": [
+        "Collaborative Teamwork",
+        "Fast-Paced Problem Solving",
+        "Strategic Decision-Making"
+      ],
+      "responsibilities": [
+        "Research audiences",
+        "Plan content",
+        "Manage campaign schedules",
+        "Review campaign analytics and refine messaging"
+      ],
+      "education_path": "Marketing, Business, Communications, Media, or a portfolio demonstrating campaign work.",
+      "skill_gaps": [
+        "SEO fundamentals",
+        "Content planning",
+        "Analytics",
+        "Copywriting"
+      ],
+      "roadmap": {
+        "30_days": "Learn audience research, content strategy, SEO basics, and core campaign metrics.",
+        "60_days": "Plan a sample campaign and create content for a clearly defined audience.",
+        "90_days": "Run or simulate a measurable campaign and present results with honest limitations."
+      },
+      "resources": [
+        "Google Skillshop — https://skillshop.withgoogle.com/",
+        "HubSpot Academy — https://academy.hubspot.com/",
+        "Google Analytics — https://analytics.google.com/analytics/academy/"
+      ]
+    },
+    {
+      "career_id": "business-analyst",
+      "title": "Business Analyst",
+      "category": "Business & Product",
+      "summary": "Clarifies business problems and translates stakeholder needs into process or technology requirements.",
+      "interests": [
+        "Business & Strategy",
+        "Data & Patterns",
+        "Problem Solving",
+        "Communication"
+      ],
+      "skills": [
+        "Communication",
+        "Critical Thinking",
+        "Research",
+        "Planning",
+        "Attention to Detail",
+        "Business Analysis"
+      ],
+      "subjects": [
+        "Business Studies",
+        "Economics",
+        "Mathematics",
+        "Computer Science"
+      ],
+      "work_styles": [
+        "Collaborative Teamwork",
+        "People-Facing",
+        "Strategic Decision-Making"
+      ],
+      "responsibilities": [
+        "Interview stakeholders",
+        "Map business processes",
+        "Document requirements",
+        "Support solution evaluation and testing"
+      ],
+      "education_path": "Business, Information Systems, Engineering, Economics, or related study.",
+      "skill_gaps": [
+        "Requirements gathering",
+        "Process mapping",
+        "Structured documentation",
+        "Stakeholder communication"
+      ],
+      "roadmap": {
+        "30_days": "Learn problem statements, process maps, and how to separate needs from proposed solutions.",
+        "60_days": "Write sample user stories and acceptance criteria for a familiar app or service.",
+        "90_days": "Build a case study with a current-state process, proposed improvements, and measurable outcomes."
+      },
+      "resources": [
+        "IIBA — https://www.iiba.org/",
+        "Atlassian Guides — https://www.atlassian.com/agile",
+        "Microsoft Learn — https://learn.microsoft.com/"
+      ]
+    },
+    {
+      "career_id": "teacher-educator",
+      "title": "Teacher / Educator",
+      "category": "Education & Social Impact",
+      "summary": "Helps learners build knowledge and skills through instruction, feedback, and supportive learning environments.",
+      "interests": [
+        "Teaching & Learning",
+        "Helping People",
+        "Communication"
+      ],
+      "skills": [
+        "Communication",
+        "Empathy",
+        "Planning",
+        "Public Speaking",
+        "Organization"
+      ],
+      "subjects": [
+        "English",
+        "Mathematics",
+        "Biology",
+        "Computer Science",
+        "Psychology"
+      ],
+      "work_styles": [
+        "People-Facing",
+        "Collaborative Teamwork",
+        "Structured & Detail-Oriented"
+      ],
+      "responsibilities": [
+        "Plan lessons",
+        "Explain concepts in different ways",
+        "Assess learning",
+        "Give feedback and adapt activities"
+      ],
+      "education_path": "A subject-related qualification and the teaching certification or eligibility required in the chosen location.",
+      "skill_gaps": [
+        "Lesson planning",
+        "Clear explanation",
+        "Assessment design",
+        "Classroom facilitation"
+      ],
+      "roadmap": {
+        "30_days": "Choose a topic and practise explaining it in a short, structured lesson.",
+        "60_days": "Create lesson materials, examples, and a simple way to check learner understanding.",
+        "90_days": "Build a teaching portfolio and verify local qualification requirements."
+      },
+      "resources": [
+        "UNESCO — https://www.unesco.org/en/education",
+        "Khan Academy — https://www.khanacademy.org/",
+        "Check your local education authority for qualification rules."
+      ]
+    },
+    {
+      "career_id": "healthcare-professional",
+      "title": "Healthcare Professional",
+      "category": "Health & Life Sciences",
+      "summary": "Supports health and wellbeing through a clinical or allied-health role with role-specific training.",
+      "interests": [
+        "Helping People",
+        "Science & Research",
+        "Psychology & Human Behaviour"
+      ],
+      "skills": [
+        "Empathy",
+        "Attention to Detail",
+        "Communication",
+        "Teamwork",
+        "Research"
+      ],
+      "subjects": [
+        "Biology",
+        "Chemistry",
+        "Psychology"
+      ],
+      "work_styles": [
+        "People-Facing",
+        "Structured & Detail-Oriented",
+        "Hands-On Practical Work"
+      ],
+      "responsibilities": [
+        "Responsibilities vary by role and qualification",
+        "Communicate respectfully with patients and teams",
+        "Maintain careful records",
+        "Follow professional standards and supervision"
+      ],
+      "education_path": "A recognised healthcare qualification and applicable registration or licensing; requirements vary by role and location.",
+      "skill_gaps": [
+        "Relevant science foundation",
+        "Ethical practice",
+        "Communication",
+        "Evidence-based thinking"
+      ],
+      "roadmap": {
+        "30_days": "Explore healthcare roles and the official qualifications, eligibility, and responsibilities for each.",
+        "60_days": "Strengthen relevant science topics and learn about ethics, privacy, and professional boundaries.",
+        "90_days": "Speak with qualified professionals where possible and verify official course and registration requirements."
+      },
+      "resources": [
+        "World Health Organization — https://www.who.int/",
+        "Official recognised university course pages",
+        "Relevant local professional regulator"
+      ]
+    },
+    {
+      "career_id": "financial-analyst",
+      "title": "Financial Analyst",
+      "category": "Finance & Business",
+      "summary": "Analyses financial information to support planning, budgeting, valuation, or business decisions.",
+      "interests": [
+        "Finance & Markets",
+        "Data & Patterns",
+        "Business & Strategy"
+      ],
+      "skills": [
+        "Numeracy",
+        "Statistics",
+        "Attention to Detail",
+        "Data Visualization",
+        "Critical Thinking"
+      ],
+      "subjects": [
+        "Mathematics",
+        "Economics",
+        "Accounting",
+        "Business Studies"
+      ],
+      "work_styles": [
+        "Structured & Detail-Oriented",
+        "Research-Oriented",
+        "Strategic Decision-Making"
+      ],
+      "responsibilities": [
+        "Review financial statements",
+        "Build and maintain spreadsheets",
+        "Compare performance and assumptions",
+        "Prepare clear analytical reports"
+      ],
+      "education_path": "Finance, Accounting, Economics, Mathematics, or Business with strong analytical skills.",
+      "skill_gaps": [
+        "Accounting basics",
+        "Advanced spreadsheets",
+        "Financial modelling",
+        "Clear reporting"
+      ],
+      "roadmap": {
+        "30_days": "Review income statements, balance sheets, and core spreadsheet functions.",
+        "60_days": "Build a sample financial analysis and document assumptions.",
+        "90_days": "Create a concise case study with calculations, charts, risks, and limitations."
+      },
+      "resources": [
+        "Khan Academy Finance — https://www.khanacademy.org/economics-finance-domain",
+        "Microsoft Learn — https://learn.microsoft.com/",
+        "CFA Institute — https://www.cfainstitute.org/"
+      ]
+    },
+    {
+      "career_id": "content-writer",
+      "title": "Content Writer",
+      "category": "Marketing & Communication",
+      "summary": "Creates clear, useful, and engaging written content for different audiences and platforms.",
+      "interests": [
+        "Writing",
+        "Creativity & Design",
+        "Communication",
+        "Research"
+      ],
+      "skills": [
+        "Writing",
+        "Communication",
+        "Research",
+        "Creativity",
+        "Planning"
+      ],
+      "subjects": [
+        "English",
+        "Media Studies",
+        "Psychology"
+      ],
+      "work_styles": [
+        "Independent Deep Work",
+        "Creative Exploration",
+        "Research-Oriented"
+      ],
+      "responsibilities": [
+        "Research topics",
+        "Draft and edit content",
+        "Adapt tone for audiences",
+        "Check facts and improve clarity"
+      ],
+      "education_path": "Writing, English, Journalism, Communications, or a portfolio-led pathway.",
+      "skill_gaps": [
+        "Research and fact-checking",
+        "Editing",
+        "Audience-focused writing",
+        "SEO fundamentals"
+      ],
+      "roadmap": {
+        "30_days": "Write regularly and practise structure, clarity, grammar, and fact-checking.",
+        "60_days": "Create samples for different formats and learn basic SEO and content strategy.",
+        "90_days": "Publish a portfolio with three polished pieces and explain the audience and purpose of each."
+      },
+      "resources": [
+        "Purdue OWL — https://owl.purdue.edu/",
+        "Google Search Central — https://developers.google.com/search",
+        "HubSpot Academy — https://academy.hubspot.com/"
+      ]
+    },
+    {
+      "career_id": "mechanical-engineer",
+      "title": "Mechanical Engineer",
+      "category": "Engineering",
+      "summary": "Designs, analyses, and improves mechanical systems, components, and products.",
+      "interests": [
+        "Machines & Engineering",
+        "Technology",
+        "Problem Solving",
+        "Science & Research"
+      ],
+      "skills": [
+        "Mathematics",
+        "Problem Solving",
+        "Physics",
+        "Teamwork",
+        "Critical Thinking"
+      ],
+      "subjects": [
+        "Physics",
+        "Mathematics",
+        "Computer Science"
+      ],
+      "work_styles": [
+        "Hands-On Practical Work",
+        "Structured & Detail-Oriented",
+        "Collaborative Teamwork"
+      ],
+      "responsibilities": [
+        "Design components and systems",
+        "Analyse performance and safety",
+        "Test prototypes",
+        "Collaborate with manufacturing and product teams"
+      ],
+      "education_path": "Mechanical Engineering or an appropriately recognised engineering programme.",
+      "skill_gaps": [
+        "Engineering mathematics",
+        "Mechanics",
+        "CAD tools",
+        "Testing and technical documentation"
+      ],
+      "roadmap": {
+        "30_days": "Revise mechanics, materials, and engineering mathematics foundations.",
+        "60_days": "Learn introductory CAD and model a simple component or assembly.",
+        "90_days": "Document a design project with requirements, calculations, prototype/testing notes, and trade-offs."
+      },
+      "resources": [
+        "MIT OpenCourseWare — https://ocw.mit.edu/",
+        "Autodesk Education — https://www.autodesk.com/education/",
+        "Engineering LibreTexts — https://eng.libretexts.org/"
+      ]
+    },
+    {
+      "career_id": "product-manager",
+      "title": "Product Manager",
+      "category": "Business & Product",
+      "summary": "Helps teams discover user problems, set product priorities, and coordinate delivery of useful solutions.",
+      "interests": [
+        "Building Products",
+        "Business & Strategy",
+        "Psychology & Human Behaviour",
+        "Technology"
+      ],
+      "skills": [
+        "Communication",
+        "Research",
+        "Planning",
+        "Critical Thinking",
+        "Business Analysis",
+        "Data Visualization"
+      ],
+      "subjects": [
+        "Business Studies",
+        "Computer Science",
+        "Mathematics",
+        "Psychology"
+      ],
+      "work_styles": [
+        "Collaborative Teamwork",
+        "People-Facing",
+        "Strategic Decision-Making"
+      ],
+      "responsibilities": [
+        "Research user needs",
+        "Set goals and prioritise work",
+        "Write requirements",
+        "Coordinate design, engineering, and measurement"
+      ],
+      "education_path": "There is no single required degree; business, technology, design, and demonstrable product work can all help.",
+      "skill_gaps": [
+        "User discovery",
+        "Prioritisation",
+        "Metrics and experimentation",
+        "Requirements writing"
+      ],
+      "roadmap": {
+        "30_days": "Study product discovery, user problems, value propositions, and outcome-based goals.",
+        "60_days": "Write a product brief, user stories, and a prioritised feature list for an existing app.",
+        "90_days": "Create a case study using user feedback, success metrics, prioritisation rationale, and trade-offs."
+      },
+      "resources": [
+        "Product School resources — https://www.productschool.com/",
+        "Atlassian Guides — https://www.atlassian.com/agile/product-management",
+        "Google HEART framework articles"
+      ]
+    },
+    {
+      "career_id": "cloud-engineer",
+      "title": "Cloud Engineer",
+      "category": "Security & Infrastructure",
+      "summary": "Builds and maintains reliable computing infrastructure and services on cloud platforms.",
+      "interests": [
+        "Technology",
+        "Security & Investigation",
+        "Problem Solving",
+        "Coding"
+      ],
+      "skills": [
+        "Networking",
+        "Programming",
+        "Troubleshooting",
+        "Logical Thinking",
+        "Cloud Computing",
+        "Teamwork"
+      ],
+      "subjects": [
+        "Computer Science",
+        "Mathematics"
+      ],
+      "work_styles": [
+        "Structured & Detail-Oriented",
+        "Fast-Paced Problem Solving",
+        "Independent Deep Work"
+      ],
+      "responsibilities": [
+        "Provision and configure infrastructure",
+        "Monitor reliability and costs",
+        "Automate routine work",
+        "Apply access and security controls"
+      ],
+      "education_path": "Computer Science, IT, or networking study combined with hands-on cloud labs.",
+      "skill_gaps": [
+        "Linux and networking",
+        "Cloud fundamentals",
+        "Scripting",
+        "Identity and access management"
+      ],
+      "roadmap": {
+        "30_days": "Learn Linux, networking, and core concepts such as regions, storage, and virtual machines.",
+        "60_days": "Complete guided cloud labs and automate a repeatable task with a script.",
+        "90_days": "Deploy a small documented application with monitoring, access controls, and estimated costs."
+      },
+      "resources": [
+        "AWS Skill Builder — https://skillbuilder.aws/",
+        "Microsoft Learn Azure — https://learn.microsoft.com/training/azure/",
+        "Google Cloud Skills Boost — https://www.cloudskillsboost.google/"
+      ]
+    },
+    {
+      "career_id": "psychologist",
+      "title": "Psychologist",
+      "category": "Health & Life Sciences",
+      "summary": "Studies behaviour and mental processes and may provide assessment or support within a defined professional scope.",
+      "interests": [
+        "Psychology & Human Behaviour",
+        "Helping People",
+        "Research"
+      ],
+      "skills": [
+        "Empathy",
+        "Research",
+        "Communication",
+        "Critical Thinking",
+        "Attention to Detail"
+      ],
+      "subjects": [
+        "Psychology",
+        "Biology",
+        "Statistics"
+      ],
+      "work_styles": [
+        "People-Facing",
+        "Research-Oriented",
+        "Structured & Detail-Oriented"
+      ],
+      "responsibilities": [
+        "Responsibilities vary by specialisation",
+        "Study behaviour and evidence",
+        "Communicate sensitively",
+        "Follow ethics, supervision, and confidentiality standards"
+      ],
+      "education_path": "Psychology degrees and supervised training; licensing or registration requirements depend on location and specialisation.",
+      "skill_gaps": [
+        "Research methods",
+        "Statistics",
+        "Ethical practice",
+        "Active listening and communication"
+      ],
+      "roadmap": {
+        "30_days": "Explore psychology subfields and introductory research methods.",
+        "60_days": "Learn basic statistics, research ethics, and how to evaluate psychological claims.",
+        "90_days": "Research accredited study paths and licensing requirements for the intended specialisation."
+      },
+      "resources": [
+        "American Psychological Association — https://www.apa.org/",
+        "British Psychological Society — https://www.bps.org.uk/",
+        "Relevant local professional regulator"
+      ]
+    },
+    {
+      "career_id": "civil-engineer",
+      "title": "Civil Engineer",
+      "category": "Engineering",
+      "summary": "Plans, designs, and helps deliver infrastructure such as buildings, transport, water, and public works.",
+      "interests": [
+        "Machines & Engineering",
+        "Science & Research",
+        "Problem Solving",
+        "Helping People"
+      ],
+      "skills": [
+        "Mathematics",
+        "Physics",
+        "Problem Solving",
+        "Planning",
+        "Teamwork",
+        "Attention to Detail"
+      ],
+      "subjects": [
+        "Physics",
+        "Mathematics",
+        "Chemistry"
+      ],
+      "work_styles": [
+        "Hands-On Practical Work",
+        "Collaborative Teamwork",
+        "Structured & Detail-Oriented"
+      ],
+      "responsibilities": [
+        "Support infrastructure design",
+        "Review technical drawings and calculations",
+        "Coordinate site and project activities",
+        "Consider standards, safety, and sustainability"
+      ],
+      "education_path": "A recognised Civil Engineering degree or relevant accredited engineering pathway.",
+      "skill_gaps": [
+        "Structural and materials basics",
+        "CAD and technical drawings",
+        "Engineering calculations",
+        "Safety and standards"
+      ],
+      "roadmap": {
+        "30_days": "Strengthen maths, mechanics, material properties, and technical drawing basics.",
+        "60_days": "Practise CAD and study a small infrastructure-design case.",
+        "90_days": "Document a conceptual project with constraints, drawings, calculations, safety, and sustainability considerations."
+      },
+      "resources": [
+        "MIT OpenCourseWare — https://ocw.mit.edu/",
+        "Engineering LibreTexts — https://eng.libretexts.org/",
+        "Relevant official engineering standards and regulator"
+      ]
+    }
+  ]
+}

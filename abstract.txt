@@ -1,0 +1,11 @@
+ABSTRACT
+
+Title: AI-Based Career Recommendation System
+
+Selecting a suitable career can be difficult for students who are unsure how their skills, interests, favourite subjects, and preferred work styles relate to different occupations. The AI-Based Career Recommendation System is a web-service prototype designed to support initial career exploration by generating personalised, explainable career suggestions.
+
+The backend is implemented in Python using FastAPI. It represents a curated catalogue of career profiles and student input as text features through Term Frequency–Inverse Document Frequency (TF-IDF), then applies cosine similarity to estimate textual alignment. The ranking also considers direct overlap between a student's selected interests, skills, subjects, and work styles and the corresponding career attributes. For each recommended career, the API returns a relative match score, explanation of matching attributes, existing strengths, skills to develop, an education-path overview, and a 30-, 60-, and 90-day learning roadmap. The system additionally supports career search, comparison of multiple roles, saved student profiles, and recommendation history. SQLite is used for local persistence, and automatically generated API documentation supports frontend integration.
+
+The backend is designed to operate independently of the user interface and can be connected to a separately designed frontend, including a Google Stitch prototype. The present implementation uses a curated demonstration catalogue; it does not constitute a validated psychometric assessment, and the scores are not probabilities of career success. Future enhancements may include a larger reviewed dataset, user feedback, region-specific course information, secure authentication, and systematic evaluation for fairness and recommendation quality.
+
+Keywords: Artificial Intelligence, Career Guidance, Recommendation System, TF-IDF, Cosine Similarity, FastAPI, SQLite.
